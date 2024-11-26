@@ -42,7 +42,7 @@ Mobile-friendly design
 Live Demo: [Link to Live Site]
 Repository: [Link to Project Folder]
 
-4. Del=veloper landing Webpage
+4. Delveloper landing Webpage
 
 Description: Clean, modern blog layout with multiple section designs
 Technologies: HTML5, CSS3, CSS Grid
